@@ -13,9 +13,5 @@ if(BMI<18){
 
 
 } else if (BMI>=25){
-    console.log("you are over weight دختووو");
-
-
+    console.log("you are over weight bro");
 }
-
-console.log(typeof NaN); 
